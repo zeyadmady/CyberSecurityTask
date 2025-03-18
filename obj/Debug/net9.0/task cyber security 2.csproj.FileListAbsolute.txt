@@ -1,0 +1,42 @@
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\obj\Debug\net9.0\task cyber security 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\obj\Debug\net9.0\task cyber security 2.AssemblyInfoInputs.cache
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\obj\Debug\net9.0\task cyber security 2.AssemblyInfo.cs
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\obj\Debug\net9.0\task cyber security 2.csproj.CoreCompileInputs.cache
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\task cyber security 2\bin\Debug\net9.0\task cyber security 2.exe
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\task cyber security 2\bin\Debug\net9.0\task cyber security 2.deps.json
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\task cyber security 2\bin\Debug\net9.0\task cyber security 2.runtimeconfig.json
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\task cyber security 2\bin\Debug\net9.0\task cyber security 2.dll
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\task cyber security 2\bin\Debug\net9.0\task cyber security 2.pdb
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\task cyber security 2\bin\Debug\net9.0\SkiaSharp.dll
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\task cyber security 2\bin\Debug\net9.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\task cyber security 2\bin\Debug\net9.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\task cyber security 2\bin\Debug\net9.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\task cyber security 2\bin\Debug\net9.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\task cyber security 2\obj\Debug\net9.0\task cyber security 2.csproj.AssemblyReference.cache
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\task cyber security 2\obj\Debug\net9.0\task cyber security 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\task cyber security 2\obj\Debug\net9.0\task cyber security 2.AssemblyInfoInputs.cache
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\task cyber security 2\obj\Debug\net9.0\task cyber security 2.AssemblyInfo.cs
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\task cyber security 2\obj\Debug\net9.0\task cyber security 2.csproj.CoreCompileInputs.cache
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\task cyber security 2\obj\Debug\net9.0\task cyb.8F457B1E.Up2Date
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\task cyber security 2\obj\Debug\net9.0\task cyber security 2.dll
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\task cyber security 2\obj\Debug\net9.0\refint\task cyber security 2.dll
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\task cyber security 2\obj\Debug\net9.0\task cyber security 2.pdb
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\task cyber security 2\obj\Debug\net9.0\task cyber security 2.genruntimeconfig.cache
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\task cyber security 2\obj\Debug\net9.0\ref\task cyber security 2.dll
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\bin\Debug\net9.0\task cyber security 2.exe
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\bin\Debug\net9.0\task cyber security 2.deps.json
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\bin\Debug\net9.0\task cyber security 2.runtimeconfig.json
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\bin\Debug\net9.0\task cyber security 2.dll
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\bin\Debug\net9.0\task cyber security 2.pdb
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\bin\Debug\net9.0\SkiaSharp.dll
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\bin\Debug\net9.0\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\bin\Debug\net9.0\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\bin\Debug\net9.0\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\bin\Debug\net9.0\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\obj\Debug\net9.0\task cyber security 2.csproj.AssemblyReference.cache
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\obj\Debug\net9.0\task cyb.8F457B1E.Up2Date
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\obj\Debug\net9.0\task cyber security 2.dll
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\obj\Debug\net9.0\refint\task cyber security 2.dll
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\obj\Debug\net9.0\task cyber security 2.pdb
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\obj\Debug\net9.0\task cyber security 2.genruntimeconfig.cache
+C:\Users\youssef\OneDrive\سطح المكتب\task cyber security 2\obj\Debug\net9.0\ref\task cyber security 2.dll
